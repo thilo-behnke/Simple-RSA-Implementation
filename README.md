@@ -1,6 +1,6 @@
 # Simple-RSA-Implementation
 
-Implementation of the RSA algorithm (https://simple.wikipedia.org/wiki/RSA_(algorithm)) in Java.
+Implementation of the RSA algorithm (https://en.wikipedia.org/wiki/RSA_(cryptosystem)) in Java.
 Architecture separates model from control and provides flexible interfaces for swapping algorithm implementations.
 
 ## Features:
